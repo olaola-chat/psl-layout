@@ -1,0 +1,59 @@
+server:
+  env: prod
+  grpc:
+    network: tcp
+    addr: 0.0.0.0:9211 # TODO 替换端口号
+    timeout: 5s
+    metrics_addr: 0.0.0.0:9212 # TODO 替换端口号
+  otel:
+    service_name: ps-social-prod
+    sample_rate: 1.0
+    endpoint: tracing-analysis-dc-frankfurt-internal.aliyuncs.com
+    path: adapt_1iu42593ahf@53fc7b95a5b3d3a_1iu42593ahf@53df7ad2afe8301/api/otlp/traces
+registry:
+  consul:
+    addr: 10.32.128.184:8500
+    path: "/banban"
+data:
+  redis:
+    network: tcp
+    addr: partystar-cache.redis.germany.rds.aliyuncs.com:6379
+    read_timeout: 0.2s
+    write_timeout: 0.2s
+    password: PartyStar2024
+  database:
+    xianshi:
+      max_idle_conns: 1
+      max_open_conns: 100
+      conn_max_lifetime: 30s
+      conn_max_idle_time: 30s
+      master: normal:Imee2016@tcp(partystar-master-01.mysql.germany.rds.aliyuncs.com:3306)/xianshi
+      slaves:
+        - normal:Imee2016@tcp(partystar-slave-01.mysql.germany.rds.aliyuncs.com:3306)/xianshi
+    config:
+      max_idle_conns: 1
+      max_open_conns: 100
+      conn_max_lifetime: 30s
+      conn_max_idle_time: 30s
+      master: normal:Imee2016@tcp(partystar-master-01.mysql.germany.rds.aliyuncs.com:3306)/config
+      slaves:
+        - normal:Imee2016@tcp(partystar-slave-01.mysql.germany.rds.aliyuncs.com:3306)/config
+oss:
+  domain: oss.jacocraft.com
+nacos:
+  server_ip: "mse-f612ff022-nacos-ans.mse.aliyuncs.com"
+  server_port: 8848
+  log_dir: "/home/ecs-user/log"
+  cache_dir: "/tmp/nacos/cache"
+  log_level: "info"
+  namespace_id: "2854dce5-97b8-4c6c-846c-1a838710bce7"
+nsq:
+  nsqlookupd_addr:
+    - 10.32.128.171:4161
+  nsqd_addr:
+    - 10.32.128.171:4150
+    - 10.32.128.172:4150
+  admin_url: "http://10.32.128.171:10000/nsq"
+  lookup_url: "http://10.32.128.171:4161"
+log:
+  level: INFO

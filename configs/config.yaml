@@ -1,0 +1,59 @@
+server:
+  env: dev
+  grpc:
+    network: tcp
+    addr: 0.0.0.0:9211 # TODO 替换端口号
+    timeout: 5s
+    metrics_addr: 0.0.0.0:9212 # TODO 替换端口号
+  otel:
+    service_name: ps-social-dev
+    sample_rate: 1.0
+    endpoint: tracing-analysis-dc-sg-internal.aliyuncs.com
+    path: adapt_1iu42593ahf@ee24b9932f6f1fc_1iu42593ahf@53df7ad2afe8301/api/otlp/traces
+registry:
+  consul:
+    addr: 127.0.0.1:8500
+    path: "/banban"
+data:
+  redis:
+    network: tcp
+    addr: 127.0.0.1:6379
+    read_timeout: 0.2s
+    write_timeout: 0.2s
+    password: ""
+  database:
+    xianshi:
+      max_idle_conns: 1
+      max_open_conns: 100
+      conn_max_lifetime: 30s
+      conn_max_idle_time: 30s
+      master: root:123456@tcp(127.0.0.1:3306)/xianshi
+      slaves:
+        - root:123456@tcp(127.0.0.1:3306)/xianshi
+    config:
+      max_idle_conns: 1
+      max_open_conns: 100
+      conn_max_lifetime: 30s
+      conn_max_idle_time: 30s
+      master: root:123456@tcp(localhost:3306)/config
+      slaves:
+        - root:123456@tcp(127.0.0.1:3306)/config
+oss:
+  domain: oss-dev.partystar.chat
+nacos:
+  server_ip: "192.168.35.221"
+  server_port: 8848
+  log_dir: "/tmp/nacos/log"
+  cache_dir: "/tmp/nacos/cache"
+  log_level: "debug"
+  namespace_id: "1738274c-ac58-4bf9-a335-720337cbf6b5"
+
+nsq:
+  nsqlookupd_addr:
+    - 127.0.0.1:4161
+  nsqd_addr:
+    - 127.0.0.1:4150
+  admin_url: "http://127.0.0.1:4171/nsq_ps"
+  lookup_url: "http://127.0.0.1:4161"
+log:
+  level: DEBUG
