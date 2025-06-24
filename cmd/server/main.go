@@ -14,6 +14,7 @@ import (
 	"github.com/go-kratos/kratos/v2/middleware/tracing"
 	"github.com/go-kratos/kratos/v2/transport/grpc"
 	"github.com/go-kratos/kratos/v2/transport/http"
+	"github.com/olaola-chat/psl-be-partystar-pkg/util"
 
 	_ "go.uber.org/automaxprocs"
 )
@@ -27,7 +28,7 @@ var (
 	// flagconf is the config flag.
 	flagconf string
 
-	id, _ = os.Hostname()
+	id = util.GenXID()
 )
 
 func init() {
