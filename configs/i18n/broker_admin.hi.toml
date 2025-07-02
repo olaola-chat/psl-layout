@@ -1,0 +1,3 @@
+"admin_agency_im2" = "{{.name}}(ID:{{.uid}}) has become a agency administrator."
+"admin_agency_im3" = "{{.name}}(ID:{{.uid}}) has been removed from the agency administrator."
+"broker_admin.guild_admin_right_invite_null" = "No access yet, please ask the agency owner for permissions."

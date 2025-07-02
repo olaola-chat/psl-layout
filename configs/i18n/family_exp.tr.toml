@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "Aile üyesi sayısı: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "Yönetici sayısı: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "aile madalyası"
+"family_exp.family_privilege_reward4" = "Ana sayfa avatar çerçevesi"
+"family_exp.family_topup_tip" = "Aile seviyenizi LV[{{ .family_topup_tip_1 }}]'e yükselttiğiniz için tebrikler"

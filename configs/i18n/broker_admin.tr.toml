@@ -1,0 +1,3 @@
+"admin_agency_im2" = "{{.name}}(ID:{{.uid}}) ajans yöneticisi oldu."
+"admin_agency_im3" = "{{.name}}(ID:{{.uid}}) ajanstan kaldırıldı."
+"broker_admin.guild_admin_right_invite_null" = "Henüz erişiminiz yok, lütfen izinler için ajans liderine danışın."

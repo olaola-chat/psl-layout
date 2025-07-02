@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }}قطعة"
+TASK_DAY = "{{ .Num }}يوم"
+TASK_HOUR = "ساعة"
+string_hello = "مرحبا"
+string_expired = "{{ .Date }}انتهت"
+string_valid_period = "المدة: {{ .Period }}"
+string_days_remaining = "{{ .Days }} الأيام المتبقية"
+string_permanent = "صالحة بشكل دائما"

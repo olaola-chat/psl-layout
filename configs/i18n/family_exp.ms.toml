@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "saiz keluarga: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "Bilangan Pentadbir: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "pingat keluarga"
+"family_exp.family_privilege_reward4" = "bingkai avatar di laman utama keluarga"
+"family_exp.family_topup_tip" = "Tahniah kerana menaikkan tahap keluarga anda ke LV[{{ .family_topup_tip_1 }}]"

@@ -1,0 +1,4 @@
+"ramadan2024.fall_award_im" = "[Ramadan Blessing Collection] Congratulations on getting the basic reward of Lv{{ .fall_award_im_1 }}: {{ .fall_award_im_2 }}, go check it."
+"ramadan2024.fall_superaward_im" = "[Ramadan Blessing Collection] Congratulations on getting the premium reward of Lv{{ .fall_superaward_im_1 }}: {{ .fall_superaward_im_2 }}, go check it."
+"ramadan2024.room_skin_reward" = "Ramadan mic skin *5 days"
+"ramadan2024.emoticons_reward" = "Ramadan sticker package*30 days"

@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "family size: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "Number of Administrators: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "family medal"
+"family_exp.family_privilege_reward4" = "avatar frame in family homepage"
+"family_exp.family_topup_tip" = "Congratulations on raising your family level to LV[{{ .family_topup_tip_1 }}]"

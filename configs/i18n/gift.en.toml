@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "Send {{ .num_need_sent }} {{ .basic_gift_name }} and unlock {{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "{{ .name }} gift x {{ .gift_num }}"
+"gift_wall_system_message1" = "you have finished collecting {{ .gift_wall_system_message1_1 }} of the gift in the weekly series"
+"gift_wall_system_message3" = "congratulation, you gift gallery card has been upgraded to LV{{ .gift_wall_system_message3_1 }}"

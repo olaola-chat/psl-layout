@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }}個"
+TASK_DAY = "{{ .Num }} 日間"
+TASK_HOUR = "{{ .Num }} 時間"
+string_hello = "こんにちは～"
+string_expired = "{{ .Date }}期限切れです"
+string_valid_period = "有効期限: {{ .Period }}"
+string_days_remaining = "残り{{ .Days }}日です"
+"string_permanent" = "永久有効"

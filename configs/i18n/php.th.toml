@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }} รายบุคคล"
+TASK_DAY = "{{ .Num }} วัน"
+TASK_HOUR = "{{ .Num }} ชั่วโมง"
+string_hello = "สวัสดี~"
+string_expired = "{{ .Date }}หมดอายุ"
+string_valid_period = "เวลาหมดอายุ: {{ .Period }}"
+string_days_remaining = "เหลืออีก {{ .Days }} วัน"
+string_permanent = "Does not expire"

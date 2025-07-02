@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "{{.nameFrom}} verdiği hediye"
+"consume_give_to" = "{{.acceptername}}'a {{.gift_num}} tane {{.name}}'yi hediye olarak gönder"
+"XSPAYCHANGE_HANDSEL" = "Hediye et"
+"GIFT_SKIN_UNLOCKED" = "Hediye görünümünün kilidini açtığınız için tebrikler{{.name}}"

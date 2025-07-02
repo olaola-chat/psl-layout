@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "{{ .num_need_sent }} {{ .basic_gift_name }} পাঠান এবং {{ .skin_name }} আনলক করুন"
+"GIFT_NAME_AND_NUMBER" = "{{ .name }} উপহার x {{ .gift_num }}"
+"gift_wall_system_message1" = "আপনি সাপ্তাহিক সিরিজে উপহারের {{ .gift_wall_system_message1_1 }} সংগ্রহ শেষ করেছেন"
+"gift_wall_system_message3" = "অভিনন্দন, আপনার উপহার গ্যালারি কার্ড {{ .gift_wall_system_message3_1 }} এ আপগ্রেড করা হয়েছে"

@@ -1,0 +1,12 @@
+"system.error_param" = "معلومة الطلب الخاطئة"
+"system.need_login" = "مطلوب التحقق من تسجيل الدخول لمواصلة العملية"
+"system.error_db" = "خطأ في قراءة البيانات"
+"system.current_user_not_exist" = "هذا المستخدم غير موجود"
+"system.user_is_banned" = "تم حظر المستخدم"
+"system.visit_too_frequently" = "الوصول متكرر كثيرا"
+"system.error_data" = "خطأ في البيانات"
+"system.not_allowed_chatting_for_cross_app" = "لا يمكن الدردشة بين مستخدمي التطبيق المختلفين"
+"system.not_allowed_chatting_for_cross_area" = "لا يمكن الدردشة بين المستخدمين في مناطق مختلفة"
+"system.cash_exchange_diamonds_toast_different_area" = "لا يمكنك استبدال الماس للمستخدمين في مناطق أخرى"
+"system.staking_limit" = 'لقد راهنت على6 أطعمة'
+"system.staking_timeout" = "تجاوز وقت الرهان هذه الجولة ، يرجى المحاولة لاحقًا"

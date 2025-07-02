@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "{{ .basic_gift_name }}を{{ .num_need_sent }}つ贈れば、{{ .skin_name }}のロックを解除することができます"
+"GIFT_NAME_AND_NUMBER" = "プレゼント{{ .name }}x{{ .gift_num }}"
+"gift_wall_system_message1" = "you have finished collecting {{ .gift_wall_system_message1_1 }} of the gift in the weekly series"
+"gift_wall_system_message3" = "congratulation, you gift gallery card has been upgraded to LV{{ .gift_wall_system_message3_1 }}"

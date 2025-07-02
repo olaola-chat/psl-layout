@@ -1,0 +1,2 @@
+"room_bottom.video_live_bottom_system_message" = "تم وضع غرفتك مؤقتًا في الأسفل بسبب انتهاك القواعد، مع الوقت المتبقي من الأسفل {{ .video_live_bottom_system_message_1 }} دقيقة"
+"room_bottom.video_live_bottom_toast" = "لقد تم إغلاق الغرفة بواسطة المسؤول، ولا يمكن استخدام البطاقة العلوية"

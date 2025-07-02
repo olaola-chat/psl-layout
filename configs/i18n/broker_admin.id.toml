@@ -1,0 +1,3 @@
+"admin_agency_im2" = "{{.name}}(ID:{{.uid}}) telah menjadi administrator agensi."
+"admin_agency_im3" = "{{.name}}(ID:{{.uid}}) telah dihapus dari administrator agensi."
+"broker_admin.guild_admin_right_invite_null" = "belum ada akses, silahkan minta izin kepada ketua agensi"

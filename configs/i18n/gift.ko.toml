@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "{{ .num_need_sent }}개의 {{ .basic_gift_name }}을/를 증정한 후 {{ .skin_name }}을/를 증정 가능"
+"GIFT_NAME_AND_NUMBER" = "선물 {{ .name }}x{{ .gift_num }}"
+"gift_wall_system_message1" = "you have finished collecting {{ .gift_wall_system_message1_1 }} of the gift in the weekly series"
+"gift_wall_system_message3" = "congratulation, you gift gallery card has been upgraded to LV{{ .gift_wall_system_message3_1 }}"

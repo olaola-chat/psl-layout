@@ -1,0 +1,2 @@
+"room_bottom.video_live_bottom_system_message" = "你的房间因为违反规定，已暂时被置底，剩余置底时间{{ .video_live_bottom_system_message_1 }} min"
+"room_bottom.video_live_bottom_toast" = "房间已被管理员置底，不可使用置顶卡"

@@ -1,0 +1,7 @@
+"national_day_v2.national_day_survey_award" = "Terima kasih kerana menyertai tinjauan acara. Kami telah menghantar ganjaran \"Bingkai Avatar Party Star3 hari\" kepada anda. Sila semak ia!"
+"national_day_v2.national_day_pop_up_award_my" = "[Hari Kemerdekaan Mesir] Tahniah, anda telah berjaya menerima faedah Hari Kemerdekaan \"Bingkai Mesir2 Hari\", pergi dan gunakannya >>"
+"national_day_v2.national_day_task_award_my" = "[Hari Kemerdekaan Mesir] Tahniah, anda telah menerima ganjaran \"{{ .national_day_task_award_my_1 }}{{ .national_day_task_award_my_2 }}x{{ .national_day_task_award_my_3 }}\" dalam tugas \"Mengibarkan Bendera\", pergi dan gunakannya>>"
+"national_day_v2.national_day_rank_award_my" = "[Hari Kemerdekaan Mesir] Tahniah kerana memenangi >>"
+"national_day_v2.national_day_pop_up_award_id" = "[Hari Kemerdekaan Maghribi] Tahniah, anda telah berjaya menerima faedah Hari Kemerdekaan \"Bingkai Maghribi*2 Hari\", pergi dan gunakannya >>"
+"national_day_v2.national_day_task_award_id" = "[Hari Kemerdekaan Maghribi] Tahniah, anda telah menerima ganjaran \"{{ .national_day_task_award_id_1 }}{{ .national_day_task_award_id_2 }}x{{ .national_day_task_award_id_3 }}\" dalam tugas \"Mengibarkan Bendera\", pergi dan gunakannya>>"
+"national_day_v2.national_day_rank_award_id" = "[Hari Kemerdekaan Maghribi] Tahniah kerana memenangi >>"

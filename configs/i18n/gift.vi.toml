@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "Send {{ .num_need_sent }} {{ .basic_gift_name }} and unlock {{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "{{ .name }} hediye x {{ .gift_num }}"
+"gift_wall_system_message1" = "Bạn đã hoàn thành bộ sưu tập {{ .gift_wall_system_message1_1 }} của quà tặng có thời hạn tuần này"
+"gift_wall_system_message3" = "Chúc mừng bạn thẻ gian hàng quà tặng đã lên lv {{ .gift_wall_system_message3_1 }}"

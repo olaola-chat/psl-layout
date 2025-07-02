@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "通知：您的定制礼物【{{ .costome_gift_notification_text_3_1 }}】未达标，已下架，请查看。"
+"costome_gift_notification_text_1" = "通知：您的定制礼物已于{{ .costome_gift_notification_text_1_1 }}上线，请查看。"
+"costome_gift_notification_text_2" = "通知：您的定制礼物截止至今日，本月送出数量为：{{ .costome_gift_notification_text_2_1 }}个，每月最后一天会结算赠送数据，送出量不足{{ .costome_gift_notification_text_2_2 }}会下架哦"
+"costome_gift_notification_text_4" = "您的礼物{{ .name }}将在{{ .date }}自动下线，因为本月赠送次数未达{{ .times }}次，赠送{{ .times }}次或本月累计充值{{ .diamond }}钻石即可保持礼物在线。"
+"costome_gift_notification_text_5" = "您的礼物{{ .name }}将在{{ .date }}自动下线，因为本月赠送次数未达{{ .times }}次。"

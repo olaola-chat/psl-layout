@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "Send {{ .num_need_sent }} {{ .basic_gift_name }} and unlock {{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "{{ .name }} hediye x {{ .gift_num }}"
+"gift_wall_system_message1" = "آپ نے ہفتہ وار سیریز میں گفٹ کا {{ .gift_wall_system_message1_1 }} جمع کرنا مکمل کر لیا ہے۔"
+"gift_wall_system_message3" = "مبارک ہو، آپ کے گفٹ گیلری کارڈ کو {{ .gift_wall_system_message3_1 }} میں اپ گریڈ کر دیا گیا ہے۔"

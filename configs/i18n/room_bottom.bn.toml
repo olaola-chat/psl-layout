@@ -1,0 +1,2 @@
+"room_bottom.video_live_bottom_system_message" = "নিয়ম লঙ্ঘনের কারণে আপনার রুমটি অস্থায়ীভাবে নীচে রাখা হয়েছে, নীচের {{ .video_live_bottom_system_message_1 }} মিনিটের অবশিষ্ট সময়"
+"room_bottom.video_live_bottom_toast" = "কক্ষটি প্রশাসক দ্বারা নীচে করা হয়েছে, এবং উপরের কার্ডটি ব্যবহার করা যাবে না"

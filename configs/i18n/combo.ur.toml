@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "{{.nameFrom}}'s gift"
+"consume_give_to" = "Send {{.acceptername}} {{.gift_num}} {{.name}}"
+"XSPAYCHANGE_HANDSEL" = "Gift"
+"GIFT_SKIN_UNLOCKED" = "Congratulations on unlocking the gift skin {{.name}}"

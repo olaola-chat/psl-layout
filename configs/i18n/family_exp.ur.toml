@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "خاندانی سائز: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "منتظمین کی تعداد: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "خاندانی میڈل"
+"family_exp.family_privilege_reward4" = "خاندانی ہوم پیج میں اوتار فریم"
+"family_exp.family_topup_tip" = "مبارک ہو، آپ کا خاندانی درجہ بڑھ کر LV[{{ .family_topup_tip_1 }}] ہو گیا ہے۔"

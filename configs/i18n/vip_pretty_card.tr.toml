@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "Başarıyla kullanıldı, görüntülemek için lütfen VIP Merkezine gidin!"
+"vip_pretty_card.special_id_receive_card_message" = "{{ .special_id_receive_card_message_1 }}'den Özel ID aldığınız için tebrikler, kullanmak için tıklayın! (En az 2.35.0 sürümüne yükseltilmesi gerekiyor)"
+"vip_pretty_card.vip_receive_card_message" = "{{ .vip_receive_card_message_1 }}'den VIP aldığınız için tebrikler, kullanmak için tıklayın! (En az 2.35.0 sürümüne yükseltilmesi gerekiyor)"
+"vip_pretty_card.special_id_backpack_valid_time" = "Diğerleri"
+"vip_pretty_card.special_id_me_backpack_tab" = "Cihaz Google hizmetlerini desteklemiyor, lütfen başka bir giriş türü seçin"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

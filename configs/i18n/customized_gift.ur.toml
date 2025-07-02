@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "نوٹس: آپ کا کسٹمایزڈ تحفہ [{{ .costome_gift_notification_text_3_1 }}] معیارات پر پورا نہیں اترا ہے اور اسے شیلف سے ہٹا دیا گیا ہے، براہ کرم چیک کریں۔"
+"costome_gift_notification_text_1" = "اطلاع: آپ کا کسٹمایزڈ تحفہ آن لائن {{ .costome_gift_notification_text_1_1 }} پر ہے، براہ کرم چیک کریں۔"
+"costome_gift_notification_text_2" = "اطلاع: آج تک، اس مہینے بھیجے گئے آپ کے کسٹمایزڈ تحائف کی مقدار ہے: {{ .costome_gift_notification_text_2_1 }}۔ تحفے کا ڈیٹا ہر مہینے کے آخری دن طے کیا جائے گا۔ اگر بھیجی گئی مقدار {{ .costome_gift_notification_text_2_2 }} سے کم ہے تو اسے شیلف سے ہٹا دیا جائے گا۔"
+"costome_gift_notification_text_4" = "آپ کا تحفہ {{ .name }} {{ .date }} میں خود بخود آف لائن ہوجائے گا ، کیونکہ اس مہینے تحائف کی تعداد {{ .times }} تک نہیں پہنچی ہے ، تحفے کو آن لائن رکھنے کے لئے اس مہینے {{ .times }} بار دیں یا {{ .diamond }} ہیرے ریچارج کریں۔"
+"costome_gift_notification_text_5" = "آپ کا تحفہ {{ .name }} {{ .date }} پر خود بخود آف لائن ہوجائے گا کیونکہ اس مہینے تحائف کی تعداد {{ .times }} تک نہیں پہنچی ہے۔"

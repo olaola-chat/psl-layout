@@ -1,0 +1,4 @@
+"national_day_v2.national_day_survey_award" = "Terima kasih telah berpartisipasi dalam survei acara. Kami telah mengirimkan hadiah \"Bingkai Avatar Party Star *3 hari\" untuk Anda. Silakan cek!"
+"national_day_v2.national_day_pop_up_award_id" = "[Hari Kemerdekaan Indonesia] Selamat, Anda telah berhasil menerima hadiah Hari Kemerdekaan Indonesia \"Bingkai Maroko*2 Hari\", segera gunakan >>"
+"national_day_v2.national_day_task_award_id" = "[Hari Kemerdekaan Indonesia] Selamat, Anda telah menerima hadiah \"{{ .national_day_task_award_id_1 }}{{ .national_day_task_award_id_2 }}x{{ .national_day_task_award_id_3 }}\" dalam tugas \"Pengibaran Bendera\", segera gunakan>>"
+"national_day_v2.national_day_rank_award_id" = "[Hari Kemerdekaan Indonesia] Selamat, Anda telah memenangkan >>"

@@ -1,0 +1,6 @@
+"ramadan2024.fall_award_im" = "[Ramazan Bereket Koleksiyonu] Lv{{ .fall_award_im_1 }} temel ödülünü aldığınız için tebrikler: {{ .fall_award_im_2 }}, gidip kontrol edin."
+"ramadan2024.fall_superaward_im" = "[Ramazan Bereket Koleksiyonu] Lv{{ .fall_superaward_im_1 }}: {{ .fall_superaward_im_2 }} premium ödülünü aldığınız için tebrikler, gidip kontrol edin."
+"ramadan2024.room_skin_reward" = "Ramazan mikrofon görünümü *5 gün"
+"ramadan2024.emoticons_reward" = "Ramazan çıkartma paketi*30 gün"
+"ramadan2024.ramadan_carve_up_im" = "[Ödül Havuzu Bonanza] Rekabetçi ödül havuzu paylaşımına hak kazandığınız için tebrikler. Etkinlik hediyesini saat 24:00'ten önce gönderin, ilk 5'e girin ve ödülü paylaşmak için gereken puanları toplayın>>"
+"ramadan2024.ramadan_carve_up_reward" = "[Ödül Havuzu Bonanza] {{ .day }} Mart Ramazan etkinliğinin ödül havuzunda 💎{{ .diamond }} kazandığınız için tebrikler. Elmas hesabınıza gönderildi. Kontrole git>>"

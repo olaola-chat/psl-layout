@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "تنويه : هديتك المخصصة [{{ .costome_gift_notification_text_3_1 }}] لا تتوافق مع المواصفات وتمت ازالتها من الرفوف , من فضلك تفحص"
+"costome_gift_notification_text_1" = "اشعار : هديتك المخصصة اصبحت نشطة في{{ .costome_gift_notification_text_1_1 }} , من فضلك تفحص"
+"costome_gift_notification_text_2" = "اشعار: حتي اليوم , عدد الهدايا المخصصة المرسلة هذا الشهر هو {{ .costome_gift_notification_text_2_1 }} . عدد الهدايا سيتم التحقق منه في نهاية الشهر اذا كان العدد اقل من {{ .costome_gift_notification_text_2_2 }} سوف يتم ازالة الهدايا من الرفوف"
+"costome_gift_notification_text_4" = "ستكون هديتك {{ .name }} غير صالحة تلقائيا في {{ .date }} نظرا لعددها المرسلة في هذا الشهر لم يصل إلى {{ .times }} مرة. يمكنك الاحتفاظ بها بعد أن يصل عددها المرسلة إلى {{ .times }} أو إعادة الشحن الشهري بقيمة {{ .diamond }} الماس"
+"costome_gift_notification_text_5" = "ستكون هديتك {{ .name }} غير صالحة تلقائيا في {{ .date }} نظرا لعدده المرسلة في هذا الشهر لم يصل إلى {{ .times }} مرة."

@@ -1,0 +1,3 @@
+"national_day_v2.national_day_pop_up_award_vn" = "[Ngày Quốc khánh Việt Nam] Xin chúc mừng, bạn đã nhận được bonus Ngày Quốc khánh \"Khung Avatar Việt Nam x 2 ngày\", hãy sử dụng ngay >>"
+"national_day_v2.national_day_task_award_vn" = "[Ngày Quốc khánh Việt Nam] Chúc mừng bạn đã nhận được phần thưởng \"{{ .national_day_task_award_vn_1 }} {{ .national_day_task_award_vn_2 }} x{{ .national_day_task_award_vn_3 }}\" trong nhiệm vụ \"Cất cờ\", hãy sử dụng ngay>>"
+"national_day_v2.national_day_rank_award_vn" = "[Ngày Quốc khánh Việt Nam] Chúc mừng bạn đã chia sẻ tổng giải thưởng trong BXH Anh hùng Quốc gia vào ngày {{ .national_day_rank_award_vn_2 }} tháng {{ .national_day_rank_award_vn_1 }}:"

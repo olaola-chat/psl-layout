@@ -1,0 +1,3 @@
+"admin_agency_im2" = "{{.name}}(ID:{{.uid}}) ایک ایجنسی ایڈمنسٹریٹر بن گیا ہے۔"
+"admin_agency_im3" = "{{.name}}(ID:{{.uid}}) کو ایجنسی کے ایڈمنسٹریٹر سے ہٹا دیا گیا ہے۔"
+"broker_admin.guild_admin_right_invite_null" = "ابھی تک رسائی نہیں ہے، براہ کرم ایجنسی کے مالک سے اجازت طلب کریں۔"

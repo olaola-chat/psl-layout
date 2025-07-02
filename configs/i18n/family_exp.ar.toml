@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "حجم العائلة : {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "عدد المسؤولين: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "ميدالية العائله"
+"family_exp.family_privilege_reward4" = "\n\nإطار الصورة الرمزية في الصفحة الرئيسية للعائلة\n\n"
+"family_exp.family_topup_tip" = "\n\nتهانينا على رفع مستوى عائلتك إلى LV[{{ .family_topup_tip_1 }}\n\n"

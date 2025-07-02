@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }} buah"
+TASK_DAY = "{{ .Num }} Hari"
+TASK_HOUR = "{{ .Num }} Jam"
+string_hello = "Halo~"
+string_expired = "{{ .Date }} Kadaluwarsa"
+string_valid_period = "Masa berlaku: {{ .Period }}"
+string_days_remaining = "sisa {{ .Days }} hari"
+"string_permanent" = "Permanen"

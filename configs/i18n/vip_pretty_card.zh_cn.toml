@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "使用成功，请前往VIP中心查看！"
+"vip_pretty_card.special_id_receive_card_message" = "恭喜你收到{{ .special_id_receive_card_message_1 }}赠送的靓号卡，点击去使用！（需要升级至不低于2.35.0版本）"
+"vip_pretty_card.vip_receive_card_message" = "恭喜你收到{{ .vip_receive_card_message_1 }}赠送的VIP，点击去使用！（需要升级至不低于2.35.0版本）"
+"vip_pretty_card.special_id_backpack_valid_time" = "请在{{ .special_id_backpack_valid_time_1 }}前使用"
+"vip_pretty_card.special_id_me_backpack_tab" = "靓号"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

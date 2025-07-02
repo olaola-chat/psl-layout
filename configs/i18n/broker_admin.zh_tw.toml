@@ -1,0 +1,3 @@
+"admin_agency_im2" = "{{.name}}（ID:{{.uid}}）已成为公会管理员"
+"admin_agency_im3" = "{{.name}}（ID:{{.uid}}）已被移除公会管理员"
+"broker_admin.guild_admin_right_invite_null" = "暂无权限，请联系公会长设置权限"

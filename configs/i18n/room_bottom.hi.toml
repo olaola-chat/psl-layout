@@ -1,0 +1,2 @@
+"room_bottom.video_live_bottom_system_message" = "Your room has been temporarily placed on the bottom due to violation of the regulations, with the remaining time of the bottom {{ .video_live_bottom_system_message_1 }} min"
+"room_bottom.video_live_bottom_toast" = "The room has been bottomed by the administrator, and the top card cannot be used"

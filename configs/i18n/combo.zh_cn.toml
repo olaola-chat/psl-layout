@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "{{.nameFrom}} 的打赏"
+"consume_give_to" = "赠送给{{.acceptername}} {{.gift_num}}个{{.name}}"
+"XSPAYCHANGE_HANDSEL" = "贈送"
+"GIFT_SKIN_UNLOCKED" = "恭喜您解锁了礼物皮肤 {{.name}}"

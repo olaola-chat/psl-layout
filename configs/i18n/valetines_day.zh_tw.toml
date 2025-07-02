@@ -1,0 +1,2 @@
+"valentines_day.title" = "【情人节活动】"
+"valentines_day.im_msg" = "恭喜，你与{{ .im_msg_1 }}一起点亮了字母“{{ .im_msg_2 }}”，双方都获得了点亮奖励，奖励已发放至账户，请注意查收>"

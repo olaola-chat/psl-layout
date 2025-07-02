@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "سيؤدي إرسال {{ .num_need_sent }} من {{ .basic_gift_name }} إلى إلغاء تأمين {{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "هدية {{ .name }}x{{ .gift_num }}"
+"gift_wall_system_message1" = "لقد انتهيت من تجميع {{ .gift_wall_system_message1_1 }} من الهدايا في السلسلة الأسبوعية"
+"gift_wall_system_message3" = "تهانيا , لقد تمت ترقية بطاقة معرض الهدايا الخاصة بك إلى {{ .gift_wall_system_message3_1 }}"

@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "Used successfully, please go to VIP Center to view !"
+"vip_pretty_card.special_id_receive_card_message" = "Congratulations on receiving the Special ID from {{ .special_id_receive_card_message_1 }}, click to use it ! (Needs to be upgraded to version no less than 2.35.0)"
+"vip_pretty_card.vip_receive_card_message" = "Congratulations on receiving the VIP from {{ .vip_receive_card_message_1 }}, click to use it ! (Needs to be upgraded to version no less than 2.35.0)"
+"vip_pretty_card.special_id_backpack_valid_time" = "Please use the opportunity before {{ .special_id_backpack_valid_time_1 }}"
+"vip_pretty_card.special_id_me_backpack_tab" = "Special ID"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

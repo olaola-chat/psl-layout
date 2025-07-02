@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "{{.nameFrom}}'गिफ्ट' से"
+"consume_give_to" = "भेजें {{.acceptername}} {{.gift_num}} {{.name}}"
+"XSPAYCHANGE_HANDSEL" = "उपहार"
+"GIFT_SKIN_UNLOCKED" = "उपहार स्किन {{.name}} अनलॉक करने पर बधाई"

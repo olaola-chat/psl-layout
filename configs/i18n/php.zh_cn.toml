@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }}个"
+TASK_DAY = "{{ .Num }} 天"
+TASK_HOUR = "{{ .Num }} 小时"
+string_hello = "你好呀~"
+string_expired = "{{ .Date }}过期"
+string_valid_period = "有效期: {{ .Period }}"
+string_days_remaining = "剩余{{ .Days }}天"
+string_permanent = "永久有效"

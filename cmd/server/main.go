@@ -14,6 +14,10 @@ import (
 	"github.com/go-kratos/kratos/v2/middleware/tracing"
 	"github.com/go-kratos/kratos/v2/transport/grpc"
 	"github.com/go-kratos/kratos/v2/transport/http"
+	"github.com/olaola-chat/psl-be-partystar-pkg/i18n"
+	"github.com/olaola-chat/psl-be-partystar-pkg/metrics"
+	"github.com/olaola-chat/psl-be-partystar-pkg/nacos"
+	pkgtracing "github.com/olaola-chat/psl-be-partystar-pkg/tracing"
 	"github.com/olaola-chat/psl-be-partystar-pkg/util"
 
 	_ "go.uber.org/automaxprocs"
@@ -76,6 +80,34 @@ func main() {
 	if err := c.Scan(&bc); err != nil {
 		panic(err)
 	}
+
+	logger = log.NewFilter(logger, log.FilterLevel(log.ParseLevel(bc.GetLog().GetLevel())))
+	log.SetLogger(logger)
+
+	// init i18n config
+	i18n.InitBundle("./configs/i18n")
+
+	// init nacos client
+	nacos.InitNacosClient(&nacos.NacosConfig{
+		ServerIp:    bc.GetNacos().GetServerIp(),
+		ServerPort:  bc.GetNacos().GetServerPort(),
+		NamespaceId: bc.GetNacos().GetNamespaceId(),
+		LogDir:      bc.GetNacos().GetLogDir(),
+		CacheDir:    bc.GetNacos().GetCacheDir(),
+		LogLevel:    bc.GetNacos().GetLogLevel(),
+	})
+
+	// init metrics
+	metrics.InitGrpcMetrics(Name)
+
+	// init tracing
+	shutdown := pkgtracing.InitTracer(&pkgtracing.TracingConfig{
+		ServiceName: bc.Server.Otel.ServiceName,
+		Rate:        bc.Server.Otel.SampleRate,
+		Endpoint:    bc.Server.Otel.Endpoint,
+		Path:        bc.Server.Otel.Path,
+	})
+	defer shutdown()
 
 	app, cleanup, err := wireApp(&bc, logger)
 	if err != nil {

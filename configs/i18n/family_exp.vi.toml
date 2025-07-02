@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "Số người gia tộc: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "Số lương về người quản lý: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "Huy chương gia tộc"
+"family_exp.family_privilege_reward4" = "Khung avatar trang chủ"
+"family_exp.family_topup_tip" = "Chúc mừng bạn cấp độ của gia tộc được nâng lên LV[{{ .family_topup_tip_1 }}]"

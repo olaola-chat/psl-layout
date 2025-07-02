@@ -1,0 +1,6 @@
+"ramadan2024.fall_award_im" = "[Koleksi Berkah Ramadhan] Selamat telah mendapatkan hadiah utama Lv{{ .fall_award_im_1 }}: {{ .fall_award_im_2 }}, yuk dicek."
+"ramadan2024.fall_superaward_im" = "[Koleksi Berkah Ramadhan] Selamat telah mendapatkan hadiah lanjutan Lv{{ .fall_superaward_im_1 }}: {{ .fall_superaward_im_2 }}, yuk dicek."
+"ramadan2024.room_skin_reward" = "Ramadan Skin Mic *5 hari"
+"ramadan2024.emoticons_reward" = "Paket Emoji Ramadan *30 hari"
+"ramadan2024.ramadan_carve_up_im" = "【Hadiah Utama Ramadan】Selamat untuk Anda yang telah mencapai kursi hadiah! Cukup kirimkan hadiah yang telah ditentukan ke acara hari ini mulai pukul 20:00-24:00, tempati 5 kursi teratas dan mencapai target poin, Anda dapat berbagi jackpot!"
+"ramadan2024.ramadan_carve_up_reward" = "[Hadiah Utama Ramadan] Selamat atas bagian Anda dari kumpulan hadiah dalam aktivitas Ramadan {{ .day }} Maret sebesar {{ .diamond }} 💎, hadiah telah dikirimkan ke akun, harap mengeceknya > >"

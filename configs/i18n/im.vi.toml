@@ -1,0 +1,22 @@
+"im.send_item_msg" = "Chúc mừng bạn đã nhận được {{.reward}}, vui lòng kiểm tra"
+"im.laya_compensate" = "Người dùng thân mến:\n\nChúng tôi đã nâng cấp các trò chơi Ludo, Carrom và 8 Ball của mình lên phiên bản mới. Điều này sẽ khiến chip và vật phẩm của bạn không còn có trong trò chơi nữa.\n\nĐể xin lỗi về điều này, Party Star hiện đã chuyển đổi tất cả chip và vật phẩm của bạn thành kim cương với giá 1:1 để bồi thường cho bạn.\n\nSau khi kiểm tra, bạn có tổng cộng {{.param_1}} Chip, {{.param_2}} Vật phẩm Ludo, {{.param_3}} Vật phẩm Carrom và {{.param_4}} Vật phẩm bóng 8, trị giá {{.param_5}} Kim cương, đã được thêm vào tài khoản của bạn. Vui lòng kiểm tra hóa đơn kim cương của bạn để biết chi tiết. "
+"im.send_reward_msg" = "Chúc mừng bạn nhận được {{ .send_reward_msg_2 }}: {{ .send_reward_msg_3 }} từ {{ .send_reward_msg_1 }}, vui lòng kiểm tra."
+"im.gift_bag" = "Gói quà tặng"
+"im.reward" = "Phần thưởng"
+"im.diamond_threshold" = "Ngưỡng kim cương"
+"im.specifice_reward" = "{{ .specifice_reward_1 }} Phần thưởng"
+"im.lv_reward" = "LV{{ .lv_reward_1 }} Phần thưởng"
+"im.diamond_threshold_reward" = "Ngưỡng kim cương {{ .diamond_threshold_reward_1 }} Phần thưởng"
+"im.official_reward" = "Phần thưởng chính thức"
+"custom_item_system_message0" = "Congratulations, dear user: congratulations on your guild received diamonds this month reached the top {{ .custom_item_system_message0_1 }}, you can get a custom avatar frame , please contact the official personnel to submit relevant information."
+"custom_item_system_message1" = "Congratulations, dear user: you have recharged {{ .amount }} diamonds this month and can receive a custom gift valid for 30 days (valid from the time the gift is on the shelf). Please contact the official staff to submit relevant information."
+"custom_item_system_message2" = "Congratulations, dear user: you have recharged {{ .amount }} diamonds this month and can receive a custom avatar frame valid for 30 days (valid from the time the gift is on the shelf). Please contact the official staff to submit relevant information."
+"custom_item_system_message3" = "Congratulations, dear user: you have recharged {{ .amount }} diamonds this month and can receive a custom vehicle valid for 30 days (valid from the time the gift is on the shelf). Please contact the official staff to submit relevant information."
+
+"coin_seller_im_pass" = "Your submitted {{ .country_name }} for transaction country has been approved, you can check out >"
+"coin_seller_im_rejiect" = "【Transaction Country Review】Sorry, the {{ .country_name }} you submitted has not been approved. Please make the necessary changes and resubmit"
+
+"coin_seller_im_area_change" = "Dear Valued Coin Merchant,We regret to inform you that there have been changes to the regions you support. The countries previously supported in the original region will no longer be displayed. We appreciate your understanding."
+
+"item_system_message17" = "You have 【{{ .item_system_message17_1 }}】 which is about to expire. The expiration date is 【{{ .item_system_message17_2 }}】. Please remember to use it if you haven't used it yet."
+

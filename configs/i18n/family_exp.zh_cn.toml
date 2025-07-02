@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "家族人数：{{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "管理员数量：{{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "家族勋章"
+"family_exp.family_privilege_reward4" = "主页头像框"
+"family_exp.family_topup_tip" = "恭喜家族等级升到了LV[{{ .family_topup_tip_1 }}]"

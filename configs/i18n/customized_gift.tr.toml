@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "Uyarı: Size özel hediyeniz [{{ .costome_gift_notification_text_3_1 }}] standartlara uygun olmadığından raflardan kaldırıldı, lütfen kontrol edin."
+"costome_gift_notification_text_1" = "Bildirim: Özelleştirilmiş hediyeniz {{ .costome_gift_notification_text_1_1 }} tarihinde çevrimiçi oldu, lütfen kontrol edin."
+"costome_gift_notification_text_2" = "Bildirim:Bugün itibarıyla bu ay gönderdiğiniz kişiye özel hediye sayısı: {{ .costome_gift_notification_text_2_1 }}. Hediye verileri her ayın son gününde belirlenecektir. Gönderilen adet {{ .costome_gift_notification_text_2_2 }}'den az ise raflardan kaldırılacaktır."
+"costome_gift_notification_text_4" = "Bu ayki hediye sayısı {{ .times }}'e ulaşmadığı için {{ .name }} hediyeniz {{ .date }} içinde otomatik olarak çevrimdışı olacak. Bu ay {{ .times }} kez vererek veya bu ay {{ .diamond }} elmaslar tutarında bir yükleme biriktirerek hediyelerinizi çevrimiçi tutabilirsiniz."
+"costome_gift_notification_text_5" = "Bu ayki hediye sayısı {{ .times }}'e ulaşmadığı için {{ .name }} hediyeniz {{ .date }} içinde otomatik olarak çevrimdışı olacak."

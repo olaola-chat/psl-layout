@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "Berjaya digunakan, sila semak di Pusat VIP!"
+"vip_pretty_card.special_id_receive_card_message" = "Tahniah kerana menerima ID Khas daripada {{ .special_id_receive_card_message_1 }}, klik untuk menggunakannya! (Perlu dinaik taraf kepada versi tidak kurang daripada 2.35.0)"
+"vip_pretty_card.vip_receive_card_message" = "Tahniah kerana menerima VIP daripada {{ .vip_receive_card_message_1 }}, klik untuk menggunakannya! (Perlu dinaik taraf kepada versi tidak kurang daripada 2.35.0)"
+"vip_pretty_card.special_id_backpack_valid_time" = "Sila gunakan peluang sebelum {{ .special_id_backpack_valid_time_1 }}"
+"vip_pretty_card.special_id_me_backpack_tab" = "ID Khas"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

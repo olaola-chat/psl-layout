@@ -1,0 +1,3 @@
+"admin_agency_im2" = "أصبح {{.name}} (المعرف:{{.uid}}) مسؤول النقابة"
+"admin_agency_im3" = "تم الغاء {{.name}}(ايدي {{.uid}}) من مسؤل الوكالة"
+"broker_admin.guild_admin_right_invite_null" = "لا يوجد وصول بعد، يرجى طلب الأذونات من زعيم النقابة."

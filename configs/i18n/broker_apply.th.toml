@@ -1,0 +1,2 @@
+"guild_apply_verify_automatic1" = "{{ .guild_apply_verify_automatic1_1 }} (ID:{{ .guild_apply_verify_automatic1_2 }}) joined the agency"
+"guild_apply_verify_automatic2" = "[Automatic review notification] {{ .guild_apply_verify_automatic2_1 }} (UID: {{ .guild_apply_verify_automatic2_2 }}) has just joined your agency, go check it out>"

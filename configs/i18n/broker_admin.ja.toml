@@ -1,0 +1,2 @@
+"admin_agency_im2" = "{{.name}}(ID:{{.uid}}) has become a agency administrator."
+"admin_agency_im3" = "{{.name}}(ID:{{.uid}}) has been removed from the agency administrator."

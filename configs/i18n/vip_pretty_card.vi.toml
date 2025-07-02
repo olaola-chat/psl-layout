@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "Đã sử dụng thành công, vui lòng kiểm tra tại VIP Center!"
+"vip_pretty_card.special_id_receive_card_message" = "Chúc mừng bạn đã nhận được ID đặc biệt từ {{ .special_id_receive_card_message_1 }}, nhấp để sử dụng! (Cần nâng cấp lên phiên bản không dưới 2.35.0)"
+"vip_pretty_card.vip_receive_card_message" = "Chúc mừng bạn đã nhận được VIP từ {{ .vip_receive_card_message_1 }}, click để sử dụng nhé! (Cần nâng cấp lên phiên bản không dưới 2.35.0)"
+"vip_pretty_card.special_id_backpack_valid_time" = "Vui lòng sử dụng trước {{ .special_id_backpack_valid_time_1 }}"
+"vip_pretty_card.special_id_me_backpack_tab" = "ID đẹp"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "Notis: Hadiah kustom anda [{{ .costome_gift_notification_text_3_1 }}] tidak memenuhi standard dan telah dikeluarkan dari senarai, sila semak."
+"costome_gift_notification_text_1" = "Pemberitahuan: Hadiah kustom anda telah aktif pada {{ .costome_gift_notification_text_1_1 }}, sila semak."
+"costome_gift_notification_text_2" = "Pemberitahuan: Sehingga hari ini, kuantiti hadiah yang disesuaikan anda yang dihantar pada bulan ini adalah: {{ .costome_gift_notification_text_2_1 }}. Data hadiah akan diselesaikan pada hari terakhir setiap bulan. Jika kuantiti yang dihantar kurang daripada {{ .costome_gift_notification_text_2_2 }}, ia akan dikeluarkan dari senarai."
+"costome_gift_notification_text_4" = "Hadiah anda {{ .name }} akan offline pada {{ .date }} kerana ia telah dihantar kurang daripada {{ .times }} kali bulan ini. Anda boleh mengekalkan hadiah dengan mencampak {{ .times }} kali atau mengecas semula sejumlah {{ .diamond }} berlian bulan ini."
+"costome_gift_notification_text_5" = "Hadiah anda {{ .name }} akan offline pada {{ .date }} kerana ia telah dihantar kurang daripada {{ .times }} kali bulan ini."

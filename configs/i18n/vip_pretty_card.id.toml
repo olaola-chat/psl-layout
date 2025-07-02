@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "Berhasil digunakan, silakan periksa di Pusat VIP!"
+"vip_pretty_card.special_id_receive_card_message" = "Selamat Anda telah menerima ID Cantiik dari {{ .special_id_receive_card_message_1 }}, klik untuk menggunakannya! (Perlu diupgrade ke versi minimal 2.35.0)"
+"vip_pretty_card.vip_receive_card_message" = "Selamat Anda telah menerima VIP dari {{ .vip_receive_card_message_1 }}, klik untuk menggunakannya! (Perlu ditingkatkan ke versi minimal 2.35.0)"
+"vip_pretty_card.special_id_backpack_valid_time" = "Silakan gunakan sebelum % 1"
+"vip_pretty_card.special_id_me_backpack_tab" = "ID Khusus"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

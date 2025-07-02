@@ -1,0 +1,8 @@
+"ramadan2024.ramadan_2024_draw_base_lottery" = "Congratulations to 【{{.username}}】 for winning 【{{.name}}】*【{{.num}}】 in the basic lucky draw."
+"ramadan2024.ramadan_2024_draw_base_premuim" = "Congratulations to 【{{.username}}】 for winning 【{{.name}}】*【{{.num}}】 in the premuim lucky draw."
+"ramadan2024.fall_award_im" = "[Ramadan Blessing Collection] Congratulations on getting the basic reward of Lv{{ .fall_award_im_1 }}: {{ .fall_award_im_2 }}, go check it."
+"ramadan2024.fall_superaward_im" = "[Ramadan Blessing Collection] Congratulations on getting the premium reward of Lv{{ .fall_superaward_im_1 }}: {{ .fall_superaward_im_2 }}, go check it."
+"ramadan2024.room_skin_reward" = "Ramadan mic skin *5 days"
+"ramadan2024.emoticons_reward" = "Ramadan sticker package*30 days"
+"ramadan2024.ramadan_carve_up_im" = "[Prize Pool Bonanza] Congratulations on qualification of competing prizepool sharing. Send event gift before 24:00, become top5 and meet the points requiremy to share the prize>>"
+"ramadan2024.ramadan_carve_up_reward" = "[Bonanza Kolam Hadiah] Tahniah atas mendapatkan 💎{{ .diamond }} dalam kolam hadiah acara Ramadan  {{ .day }} Mac Berlian telah dihantar ke akaun anda. Pergi semak>>"

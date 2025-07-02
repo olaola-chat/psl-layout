@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "সফলভাবে ব্যবহার করা হয়েছে, দয়া করে এটি ভিআইপি সেন্টারে চেক করুন!"
+"vip_pretty_card.special_id_receive_card_message" = "{{ .special_id_receive_card_message_1 }} থেকে বিশেষ আইডি পাওয়ার জন্য অভিনন্দন, এটি ব্যবহার করতে ক্লিক করুন! (2.35.0 এর কম নয় সংস্করণে আপগ্রেড করা প্রয়োজন)"
+"vip_pretty_card.vip_receive_card_message" = "{{ .vip_receive_card_message_1 }} থেকে ভিআইপি পাওয়ার জন্য অভিনন্দন, এটি ব্যবহার করতে ক্লিক করুন! (2.35.0 এর কম নয় সংস্করণে আপগ্রেড করা প্রয়োজন)"
+"vip_pretty_card.special_id_backpack_valid_time" = "অনুগ্রহ করে {{ .special_id_backpack_valid_time_1 }} এর আগে সুযোগটি ব্যবহার করুন"
+"vip_pretty_card.special_id_me_backpack_tab" = "বিশেষ আইডি"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

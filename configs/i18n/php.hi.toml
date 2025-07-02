@@ -1,0 +1,8 @@
+PIECE = "{{ .Num }}number"
+TASK_DAY = "{{ .Num }} Day"
+TASK_HOUR = "{{ .Num }} Hour"
+string_hello = "Hello~"
+string_expired = "{{ .Date }} Expired"
+string_valid_period = "Expiry date: {{ .Period }}"
+string_days_remaining = "{{ .Days }} days remaining"
+string_permanent = "समाप्त नहीं होता"

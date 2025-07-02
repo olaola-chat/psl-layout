@@ -1,0 +1,6 @@
+"costome_gift_notification_text_3" = "Thông báo: Quà tặng tùy chỉnh của bạn [{{ .costome_gift_notification_text_3_1 }}] không đạt tiêu chuẩn và đã bị xóa, vui lòng kiểm tra."
+"costome_gift_notification_text_1" = "Thông báo: Quà tặng tùy chỉnh của bạn đã trực tuyến vào ngày {{ .costome_gift_notification_text_1_1 }}, vui lòng kiểm tra."
+"costome_gift_notification_text_2" = "Thông báo: Tính đến hôm nay, số lượng quà tặng tùy chỉnh của bạn được gửi trong tháng này là: {{ .costome_gift_notification_text_2_1 }} cái. Dữ liệu tặng sẽ được thanh toán vào ngày cuối cùng của mỗi tháng. Nếu số lượng gửi nhỏ hơn {{ .costome_gift_notification_text_2_2 }} sẽ bị xóa."
+"costome_gift_notification_text_4" = "Món quà {{ .name }} của bạn sẽ bị offline tự động vào {{ .date }} vì số lượng được tặng trong tháng chưa đủ {{ .times }}, tặng {{ .times }} cái hoặc nạp đủ {{ .diamond }} kc trong tháng để duy trì quà online."
+"costome_gift_notification_text_5" = "Món quà {{ .name }} của bạn sẽ bị offline tự động vì số lượng được tạng trong tháng chưa đủ {{ .times }}."
+

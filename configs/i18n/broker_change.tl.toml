@@ -1,0 +1,2 @@
+"agency_movehost_toast1" = "Sorry, {{ .remove_name }} cannot be removed due to transfer restrictions."
+"agency_movehost_toast2" = "Sorry, {{ .remove_name }} cannot be removed due to charm value exchange issues."

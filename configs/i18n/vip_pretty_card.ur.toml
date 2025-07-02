@@ -1,0 +1,6 @@
+"vip_pretty_card.vip_backpack_use_toast" = "کامیابی کے ساتھ استعمال ہوا، براہ کرم اسے VIP سینٹر میں چیک کریں!"
+"vip_pretty_card.special_id_receive_card_message" = "{{ .special_id_receive_card_message_1 }} سے خصوصی ID حاصل کرنے پر مبارکباد، اسے استعمال کرنے کے لیے کلک کریں! (2.35.0 سے کم ورژن میں اپ گریڈ کرنے کی ضرورت ہے)"
+"vip_pretty_card.vip_receive_card_message" = "{{ .vip_receive_card_message_1 }} سے VIP موصول ہونے پر مبارک ہو، اسے استعمال کرنے کے لیے کلک کریں! (2.35.0 سے کم ورژن میں اپ گریڈ کرنے کی ضرورت ہے)"
+"vip_pretty_card.special_id_backpack_valid_time" = "براہ کرم %۱ سے پہلے موقع استعمال کریں۔"
+"vip_pretty_card.special_id_me_backpack_tab" = "خصوصی ID"
+"vip_pretty_card.vip_me_backpack_tab" = "VIP"

@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "Pemberitahuan: Hadiah khusus Anda [{{ .costome_gift_notification_text_3_1 }}] tidak memenuhi standar dan telah dihapus dari rak, silakan periksa."
+"costome_gift_notification_text_1" = "Pemberitahuan: Hadiah khusus Anda telah online pada {{ .costome_gift_notification_text_1_1 }}, silakan periksa."
+"costome_gift_notification_text_2" = "Pemberitahuan:Mulai hari ini, jumlah hadiah khusus yang Anda kirim bulan ini adalah: {{ .costome_gift_notification_text_2_1 }}. Data hadiah akan diselesaikan pada hari terakhir setiap bulan. Jika jumlah yang dikirim kurang dari {{ .costome_gift_notification_text_2_2 }}, maka akan dikeluarkan dari rak."
+"costome_gift_notification_text_4" = "Hadiah Anda {{ .name }} akan otomatis offline pada {{ .date }} karena jumlah tampolan  bulan ini belum mencapai {{ .times }}, tampol {{ .times }} kali atau top up {{ .diamond }} diamond bulan ini agar hadiah tetap online."
+"costome_gift_notification_text_5" = "Hadiah Anda {{ .name }} akan otomatis offline pada {{ .date }} karena jumlah tampolan  bulan ini belum mencapai {{ .times }}."

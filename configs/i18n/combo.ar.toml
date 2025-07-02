@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "الهدايا من {{.nameFrom}}"
+"consume_give_to" = "ارسل {{.gift_num}}x{{.name}} هدايا{{.acceptername}}"
+"XSPAYCHANGE_HANDSEL" = "إرسال"
+"GIFT_SKIN_UNLOCKED" = "مبروك على فتح هدية الجلد {{.name}}"

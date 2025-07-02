@@ -1,0 +1,5 @@
+"family_exp.family_privilege_reward1" = "পরিবারের আকার: {{ .family_privilege_reward1_1 }}"
+"family_exp.family_privilege_reward2" = "প্রশাসকের সংখ্যা: {{ .family_privilege_reward2_1 }}"
+"family_exp.family_privilege_reward3" = "পারিবারিক পদক"
+"family_exp.family_privilege_reward4" = "পরিবারের হোমপেজে অবতার ফ্রেম"
+"family_exp.family_topup_tip" = "আপনার পারিবারিক স্তর এলভিতে উন্নীত করার জন্য অভিনন্দন[{{ .family_topup_tip_1 }}]"

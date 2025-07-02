@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "{{ .num_need_sent }} tane {{ .basic_gift_name }} gönder，{{ .skin_name }} açabilir"
+"GIFT_NAME_AND_NUMBER" = "{{ .name }} hediye x {{ .gift_num }}"
+"gift_wall_system_message1" = "{{ .gift_wall_system_message1_1 }} haftalık serisindeki hediyenin {{ .gift_wall_system_message1_1 }}'ini toplamayı tamamladınız"
+"gift_wall_system_message3" = "tebrikler, hediye galerisi kartınız LV{{ .gift_wall_system_message3_1 }}'e yükseltildi"

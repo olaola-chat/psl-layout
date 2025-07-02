@@ -1,0 +1,5 @@
+"costome_gift_notification_text_3" = "Notice: Your customized gift [{{ .costome_gift_notification_text_3_1 }}] did not meet the standards and has been removed from the shelves, please check."
+"costome_gift_notification_text_1" = "Notification: Your customized gift has been online on {{ .costome_gift_notification_text_1_1 }}, please check."
+"costome_gift_notification_text_2" = "Notification: till today, the quantity of your customized gifts sent this month is: {{ .costome_gift_notification_text_2_1 }}. The gift data will be settled on the last day of each month. If the quantity sent is less than {{ .costome_gift_notification_text_2_2 }}, it will be removed from the shelves."
+"costome_gift_notification_text_4" = "Your gift {{ .name }} will be offline at {{ .date }} because it has been sent less than {{ .times }} times this month. You can keep your gift online by gifting {{ .times }} times or recharging a total of {{ .diamond }} diamonds this month."
+"costome_gift_notification_text_5" = "Your gift {{ .name }} will be offline at {{ .date }} because it has been sent less than {{ .times }} times this month."

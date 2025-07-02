@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "Hadiahi {{ .num_need_sent }} {{ .basic_gift_name }} dapat buka {{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "Hadiah {{ .name }}x{{ .gift_num }}"
+"gift_wall_system_message1" = "Anda telah selesaikan pengumpulan % 1 siri hadiah masa terhad minggu ini"
+"gift_wall_system_message3" = "tahniah, kad galeri hadiah anda telah dinaik taraf kepada LV% 1"

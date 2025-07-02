@@ -1,0 +1,4 @@
+"XSPAYCHANGE_REWARD_FROM_1" = "{{.nameFrom}}의 증정"
+"consume_give_to" = "{{.acceptername}}에게 {{.gift_num}}个{{.name}}을/를 증정"
+"XSPAYCHANGE_HANDSEL" = "증정"
+"GIFT_SKIN_UNLOCKED" = "{{.name}} 선물 피부 잠금해제를 축하드립니다."

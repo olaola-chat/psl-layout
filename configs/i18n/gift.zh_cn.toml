@@ -1,0 +1,4 @@
+"gift.skin_gift_progress_bar" = "送出{{ .num_need_sent }} 个{{ .basic_gift_name }}, 可解锁{{ .skin_name }}"
+"GIFT_NAME_AND_NUMBER" = "礼物{{ .name }}x{{ .gift_num }}"
+"gift_wall_system_message1" = "你已完成本周礼物限时系列{{ .gift_wall_system_message1_1 }}的收集"
+"gift_wall_system_message3" = "恭喜你礼物展馆卡已升到LV{{ .gift_wall_system_message3_1 }}"
